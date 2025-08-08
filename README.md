@@ -4,7 +4,7 @@ My name is Karthikey , and I'm an NSUT trained computer engineer interested in a
 
 
 
-- 🔭 I’m currently working on AI Resume Analyzer
+- 🔭 I’m currently working on Mockly.AI
 - 🌱 I’m currently learning Data Science 
 - 👯 I’m looking to collaborate on  Projects
 - 🤔 I’m looking for help with ...
