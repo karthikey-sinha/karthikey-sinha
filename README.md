@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=karthikey-sinha">
-    <img src="https://komarev.com/ghpvc/?username=karthikey-sinha&label=Profile%20views&color=00FFFF&style=flat-square" alt="karthikey-sinha's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=karthikey-sinha&label=Profile%20views&color=8A2BE2&style=flat-square" alt="karthikey-sinha's profile views" />
   </a>
 </p>
 
@@ -86,9 +86,4 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
 
