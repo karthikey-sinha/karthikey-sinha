@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on Data Related Projects
 - 🤔 I’m looking for help in getting a job
 - 📫 How to reach me: karthikeysinha8@gmail.com
+- 📄 You can find my recent research paper: https://journals.stmjournals.com/article/article=2026/view=245596/     
 
 
 ## 🧠 My Focus Areas
